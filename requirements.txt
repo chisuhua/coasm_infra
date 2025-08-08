@@ -1,0 +1,7 @@
+# requirements.txt
+antlr4-python3-runtime>=4.13.0
+pyparsing>=3.0.0
+jinja2>=3.0.0
+# Optional for serialization/testing later
+# pyyaml
+# jsonschema # For validating dumped data against a schema
